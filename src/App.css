@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.hv-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.error_text{
+  color: red;
+}
